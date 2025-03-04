@@ -21,3 +21,5 @@ where LENGTH(titulo) -->, <, = a un dato;
 > función [[LENGTH]] 
 - la función [[AGE]] me sirve para saber cuanto tiempo ha pasado entre una fecha y otra
 [[ejercicios de datalemur]] 
+
+hola
