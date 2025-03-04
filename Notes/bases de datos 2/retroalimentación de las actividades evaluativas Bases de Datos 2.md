@@ -18,5 +18,6 @@ select LENGTH(titulo), titulo
 from books b
 where LENGTH(titulo) -->, <, = a un dato; 
 ```
-
-- S
+> función [[LENGTH]] 
+- la función [[AGE]] me sirve para saber cuanto tiempo ha pasado entre una fecha y otra
+[[ejercicios de datalemur]] 
