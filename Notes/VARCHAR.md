@@ -1,0 +1,1 @@
+tipo de dato que acepta caracteres Alpha numéricos

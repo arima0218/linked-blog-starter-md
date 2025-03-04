@@ -1,2 +1,2 @@
 - [ ] [[ejercicios de datalemur]] 2025-03-06
-- [ ] 
+- [ ] [[corrección del parcial]] 
